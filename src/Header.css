@@ -1,0 +1,35 @@
+#brand {
+    float: left;
+    font-size: 30px;
+  }
+
+/* 
+  header{
+    background-color: brown;
+    height: 50px;
+  }  */
+  header {
+  background-color: #b16c1a;
+}
+
+
+  .hstack {
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+  }
+  .gstack {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+  }
+  
+ 
+  
+  .login,
+  .createacc {
+    color: white;
+    text-decoration: none;
+    opacity: 0.8;
+  }
+
